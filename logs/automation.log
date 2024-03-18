@@ -1,0 +1,56 @@
+11:37:52.012 [main] INFO  api.test.UserTests - ****** TC1_PostUser- Creating user *******
+11:37:54.194 [main] INFO  api.test.UserTests - ****** TC1_PostUser- User is created *******
+11:37:54.204 [main] INFO  api.test.UserTests - ****** TC2_GetUserByName- Reading user info*******
+11:37:55.290 [main] INFO  api.test.UserTests - ****** TC2_GetUserByName- User info is displayed *******
+11:37:55.293 [main] INFO  api.test.UserTests - ****** TC3_UpdateUserByName- Updating user *******
+11:37:56.805 [main] INFO  api.test.UserTests - ****** TC3_UpdateUserByName- User is updated *******
+11:37:58.917 [main] INFO  api.test.UserTests - ****** TC4_DeleteUserByName- Deleting user *******
+11:37:59.992 [main] INFO  api.test.UserTests - ****** TC4_DeleteUserByName- User deleted *******
+11:53:34.928 [main] INFO  api.test.UserTests - ****** TC1_PostUser- Creating user *******
+11:53:37.230 [main] INFO  api.test.UserTests - ****** TC1_PostUser- User is created *******
+11:53:37.242 [main] INFO  api.test.UserTests - ****** TC2_GetUserByName- Reading user info*******
+11:53:38.333 [main] INFO  api.test.UserTests - ****** TC2_GetUserByName- User info is displayed *******
+11:53:38.336 [main] INFO  api.test.UserTests - ****** TC3_UpdateUserByName- Updating user *******
+11:53:39.419 [main] INFO  api.test.UserTests - ****** TC3_UpdateUserByName- User is updated *******
+11:53:40.477 [main] INFO  api.test.UserTests - ****** TC4_DeleteUserByName- Deleting user *******
+11:53:41.551 [main] INFO  api.test.UserTests - ****** TC4_DeleteUserByName- User deleted *******
+13:20:22.467 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- Creating user *******
+13:20:24.726 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- User is created *******
+13:20:24.735 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- Reading user info*******
+13:20:25.839 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- User info is displayed *******
+13:20:25.842 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- Updating user *******
+13:20:26.914 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- User is updated *******
+13:20:27.985 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- Deleting user *******
+13:20:29.048 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- User deleted *******
+13:43:51.422 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- Creating user *******
+13:43:54.701 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- User is created *******
+13:43:54.708 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- Reading user info*******
+13:43:55.799 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- User info is displayed *******
+13:43:55.800 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- Updating user *******
+13:43:56.875 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- User is updated *******
+13:43:57.976 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- Deleting user *******
+13:43:59.043 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- User deleted *******
+13:47:31.264 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- Creating user *******
+13:47:34.506 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- User is created *******
+13:47:34.514 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- Reading user info*******
+13:47:35.583 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- User info is displayed *******
+13:47:35.585 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- Updating user *******
+13:47:36.655 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- User is updated *******
+13:47:37.710 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- Deleting user *******
+13:47:38.762 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- User deleted *******
+15:39:49.219 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- Creating user *******
+15:39:52.133 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- User is created *******
+15:39:52.142 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- Reading user info*******
+15:39:53.250 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- User info is displayed *******
+15:39:53.254 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- Updating user *******
+15:39:54.376 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- User is updated *******
+15:39:55.490 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- Deleting user *******
+15:39:56.591 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- User deleted *******
+15:42:36.784 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- Creating user *******
+15:42:40.720 [main] INFO  api.test.UserTests2 - ****** TC1_PostUser- User is created *******
+15:42:40.729 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- Reading user info*******
+15:42:41.853 [main] INFO  api.test.UserTests2 - ****** TC2_GetUserByName- User info is displayed *******
+15:42:41.855 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- Updating user *******
+15:42:42.980 [main] INFO  api.test.UserTests2 - ****** TC3_UpdateUserByName- User is updated *******
+15:42:44.064 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- Deleting user *******
+15:42:45.183 [main] INFO  api.test.UserTests2 - ****** TC4_DeleteUserByName- User deleted *******
